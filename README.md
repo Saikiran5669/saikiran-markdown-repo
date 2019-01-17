@@ -18,4 +18,4 @@ This Program is a blend of both Software Development and Data Analytics which pr
 - Databases
 
 ## Campus Clicks
-- [Picture](https://oneclassblog.com/wp-content/uploads/2018/11/northwestmissouri-top_2x-1.jpg "front view")
+![Hosted image](https://oneclassblog.com/wp-content/uploads/2018/11/northwestmissouri-top_2x-1.jpg "front view")
