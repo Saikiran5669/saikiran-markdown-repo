@@ -2,4 +2,5 @@
 A breif introduction about the ACS program.
 
 ## Useful Student Links
--[Webpage](https://nwmissouri.instructure.com/ "Course Details")
+- [CATPaws Login](https://ssb.nwmissouri.edu/pls/PRODDAD/twbkwbis.P_GenMenu?name=homepage "Student Login")
+- [Course Details](https://nwmissouri.instructure.com/ "Course Details")
