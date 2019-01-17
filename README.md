@@ -18,5 +18,11 @@ This Program is a blend of both Software Development and Data Analytics which pr
 - Databases
 
 ## Campus Clicks
-![Hosted image](https://oneclassblog.com/wp-content/uploads/2018/11/northwestmissouri-top_2x-1.jpg "front view")
 ![Hosted image](https://www.nwmissouri.edu/media/news/2015/06/images/150601FourthStreet.jpg "Entrance")
+![Hosted image](https://oneclassblog.com/wp-content/uploads/2018/11/northwestmissouri-top_2x-1.jpg "front view")
+![Hosted image](https://media.heartlandtv.com/images/NWMSU-Bearcats-Logo.jpg "Symbol")
+
+## Image Credits
+- nwmissouri.edu
+- oneclassblog.com
+- heartlandtv.com
